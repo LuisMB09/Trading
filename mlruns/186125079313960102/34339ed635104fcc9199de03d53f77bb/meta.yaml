@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/luism/Desktop/7-ITESO/Microestructura%20y%20Sistemas%20de%20Trading/mlruns/186125079313960102/34339ed635104fcc9199de03d53f77bb/artifacts
+end_time: 1761875205924
+entry_point_name: ''
+experiment_id: '186125079313960102'
+lifecycle_stage: active
+run_id: 34339ed635104fcc9199de03d53f77bb
+run_name: classy-fox-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761875151655
+status: 3
+tags: []
+user_id: luism

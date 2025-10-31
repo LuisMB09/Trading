@@ -1,0 +1,10 @@
+artifact_location: file:///Users/luism/Desktop/7-ITESO/Microestructura%20y%20Sistemas%20de%20Trading/mlruns/186125079313960102/models/m-075b855c280e4292a91ea1333c87bf1b/artifacts
+creation_timestamp: 1761875205978
+experiment_id: '186125079313960102'
+last_updated_timestamp: 1761875267570
+model_id: m-075b855c280e4292a91ea1333c87bf1b
+model_type: null
+name: model
+source_run_id: 2c556bcf263a4fe5907f29262cef9f9a
+status: 2
+status_message: null

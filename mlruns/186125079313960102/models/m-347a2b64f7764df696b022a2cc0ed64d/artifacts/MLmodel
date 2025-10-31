@@ -1,0 +1,30 @@
+artifact_path: file:///Users/luism/Desktop/7-ITESO/Microestructura%20y%20Sistemas%20de%20Trading/mlruns/186125079313960102/models/m-347a2b64f7764df696b022a2cc0ed64d/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.6
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-347a2b64f7764df696b022a2cc0ed64d
+model_size_bytes: 738095
+model_uuid: m-347a2b64f7764df696b022a2cc0ed64d
+prompts: null
+run_id: 34339ed635104fcc9199de03d53f77bb
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 32,
+    32, 3]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-31 01:46:38.949165'

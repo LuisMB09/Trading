@@ -1,0 +1,15 @@
+creation_timestamp: 1761875380686
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1761875380686
+model_id: m-3fecad7b30aa4033af85f1b23924b0b9
+name: cifar_net
+run_id: 1e52e941a84d43548d4dee215e8cf381
+run_link: ''
+source: file:///Users/luism/Desktop/7-ITESO/Microestructura%20y%20Sistemas%20de%20Trading/mlruns/186125079313960102/models/m-3fecad7b30aa4033af85f1b23924b0b9/artifacts
+status: READY
+status_message: null
+storage_location: file:///Users/luism/Desktop/7-ITESO/Microestructura%20y%20Sistemas%20de%20Trading/mlruns/186125079313960102/models/m-3fecad7b30aa4033af85f1b23924b0b9/artifacts
+user_id: null
+version: 1
